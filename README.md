@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tugubright 
 
- [ CyberSec Consultant | Red team | Bug Hunter |  | OSCP | OSWP | CRTP | CRTE | EWPTX | CEH (Master) | CHFI (Forensic Investigator) | OSCE | CISSP-ISSEP ]
+ [ CyberSec Consultant | Cloud Arch | Red team | Bug Hunter |  | OSCP | OSWP | CRTP | CRTE | EWPTX | CEH (Master) | CHFI (Forensic Investigator) | OSCE | CISSP-ISSEP ]
 
 <!---
 tugubright/tugubright is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
